@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Alurinha" title="Alurinha" src="img/alura.svg" width="200px" />
+    Alurinha
 </h1>
 
 <h4 align="center">
